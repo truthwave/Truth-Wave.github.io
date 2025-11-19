@@ -28,7 +28,7 @@ Truth Wave は、「真理は、波となって広がる」という信念をベ
 - 財務指標と理論株価をもとに、投資価値を自動判定
 - 初心者〜中級者まで対応、コメントもバフェット調で出力
 - [🔗 GitHubリポジトリ](https://github.com/truthwave/Buffett-Graham-GPTs)
-- [🔗 Coconala商品ページ](https://coconala.com/contents_market/pictures/cmez6ftdz0sjh6m0h0xdbo1gs)
+- [🔗 note商品ページ](https://note.com/truth_wave/n/n92be6e1aca01)
 
 ---
 
