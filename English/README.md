@@ -38,7 +38,7 @@ Truth Wave is a personal development brand founded on the belief that “truth s
 - **High-quality wording**: Formatted for immediate practical use, including opening thanks and closing with next steps  
 - **Exceptional versatility**: Covers customer support, follow-ups, thank-yous, and schedule coordination
 - [🔗 GitHub Repository](https://github.com/truthwave/mail-efficiency-gpts/tree/main/English)
-- [🔗 Coconala Product Page](https://coconala.com/contents_market/pictures/cmf3ndqpl00xr6s0houn6itv9)
+- [🔗 note Product Page](https://note.com/truth_wave/n/n61c5d3749404)
 
 
 ---
