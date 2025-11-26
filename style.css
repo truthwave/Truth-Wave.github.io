@@ -323,3 +323,12 @@ body.ripple-paused .ripple-bg::before { animation: none !important; }
 }
 .lang-btn:hover{ filter:brightness(.95); }
 
+/* フッター */
+.footer {
+  max-width: 960px;
+  margin: 0 auto;
+  padding: 0 16px 32px;
+  font-size: 0.8rem;
+  color: #9ca3af;
+  text-align: right;
+}
