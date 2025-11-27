@@ -183,7 +183,38 @@ body.ripple-paused .ripple-bg::before { animation: none !important; }
   color: var(--text-light);
 }
 
-/* フッター */
+.accordion {
+  margin-top: 1rem;
+  border-radius: 12px;
+  border: 1px solid rgba(148,163,184,0.45);
+  background: rgba(15,23,42,0.65);
+  padding: .65rem .75rem .35rem;
+}
+.accordion-summary {
+  cursor: pointer;
+  list-style: none;
+  font-size: .9rem;
+  font-weight: 500;
+  display: flex;
+  align-items: center;
+  color: #e2e8f0;
+}
+.accordion-summary::marker,
+.accordion-summary::-webkit-details-marker { display:none; }
+.accordion-summary::after {
+  content: '＋';
+  margin-left: auto;
+  font-size: .9rem;
+  color:#94A3B8;
+}
+details[open] > .accordion-summary::after { content: '－'; }
+.accordion-content {
+  margin-top: .45rem;
+  padding-top: .35rem;
+  border-top: 1px dashed rgba(148,163,184,0.5);
+  font-size:.9rem;
+  color:#CBD5F5;
+}
 
 /* 追従CTA：モバイルでは非表示（CTAの同時出現を制限） */
 .sticky-cta { position: fixed; right: 1rem; bottom: 1rem; z-index: 1100; }
