@@ -53,7 +53,7 @@ section { scroll-margin-top: 72px; }
   gap: .75rem;
   justify-content: flex-end;
   padding: 0.5rem 1.25rem;
-  background: linear-gradient(to left, rgba(15,23,42,0.9), rgba(15,23,42,0.65));
+  background: linear-gradient(to right, rgba(15,23,42,0.9), rgba(15,23,42,0.65));
   backdrop-filter: blur(10px);
   border-bottom: 1px solid rgba(148,163,184,0.4);
 }
