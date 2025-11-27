@@ -46,20 +46,30 @@ section { scroll-margin-top: 72px; }
 
 /* グローバルナビ（固定） */
 .global-nav {
-  position: fixed; inset: 0 0 auto 0;
-  height: 56px;
-  display: flex; align-items: center; justify-content: center; gap: 2rem;
-  background: rgba(10,14,26,0.9);
-  backdrop-filter: saturate(140%) blur(6px);
-  z-index: 1000;
-  border-bottom: 1px solid rgba(255,255,255,0.06);
+  position: sticky;
+  top: 0;
+  z-index: 50;
+  display: flex;
+  gap: .75rem;
+  justify-content: flex-end;
+  padding: 0.5rem 1.25rem;
+  background: linear-gradient(to right, rgba(15,23,42,0.9), rgba(15,23,42,0.65));
+  backdrop-filter: blur(10px);
+  border-bottom: 1px solid rgba(148,163,184,0.4);
 }
 .global-nav a {
-  color: var(--text-light);
-  font-weight: 500;
-  transition: color .25s ease;
+  font-size: 0.82rem;
+  text-decoration: none;
+  color: #e2e8f0;
+  padding: 0.25rem 0.55rem;
+  border-radius: 999px;
+  transition: background .18s ease, color .18s ease, transform .18s ease;
 }
-.global-nav a:hover { color: var(--accent-2); }
+.global-nav a:hover {
+  background: rgba(148,163,184,0.18);
+  color: #f9fafb;
+  transform: translateY(-1px);
+}
 
 /* ヒーロー（余白を詰めてCTAを視界内に） */
 .hero {
