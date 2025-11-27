@@ -36,7 +36,7 @@ a:hover, a:focus { text-decoration: underline; }
   background: #111827;
   color: #e5e7eb;
   border-radius: 9999px;
-  font-size: 10px;
+  font-size: 14px;
   text-decoration: none;
   z-index: 9999;
 }
