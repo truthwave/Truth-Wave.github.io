@@ -1,4 +1,5 @@
- **Think clearly. Build simply.**  
+ <img width="2481" height="3508" alt="AIスキル検定初級(名前非表示)" src="https://github.com/user-attachments/assets/47243277-70ed-460a-85e1-daecc0ed9db3" />
+**Think clearly. Build simply.**  
 > ― 本質を、仕組みに。<br>
 👉 [https://truth-wave-github-io.vercel.app/](https://truth-wave-github-io.vercel.app/)
 
