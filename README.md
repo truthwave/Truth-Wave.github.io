@@ -1,3 +1,4 @@
+<img width="944" height="732" alt="AI時代に必要な適応力を身につける" src="https://github.com/user-attachments/assets/daec0f34-d4ae-4930-8207-5fbabfd47213" />
 **Think clearly. Build simply.**  
 > ― 本質を、仕組みに。<br>
 👉 [https://truth-wave-github-io.vercel.app/](https://truth-wave-github-io.vercel.app/)
