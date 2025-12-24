@@ -1,6 +1,3 @@
-<img width="950" height="731" alt="AI時代に求められるヒューマンスキル" src="https://github.com/user-attachments/assets/94f9ba0d-9c76-440b-beb7-475dc98bd5cd" />
-
-
 **Think clearly. Build simply.**  
 > ― 本質を、仕組みに。<br>
 👉 [https://truth-wave-github-io.vercel.app/](https://truth-wave-github-io.vercel.app/)
