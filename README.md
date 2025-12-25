@@ -1,4 +1,3 @@
-<img width="954" height="737" alt="生成AIの基礎知識 by Microsoft x LinkedIn" src="https://github.com/user-attachments/assets/18d93f10-7500-4408-b610-524a3ecd5760" />
 **Think clearly. Build simply.**  
 > ― 本質を、仕組みに。<br>
 👉 [https://truth-wave-github-io.vercel.app/](https://truth-wave-github-io.vercel.app/)
