@@ -1,4 +1,3 @@
-<img width="952" height="729" alt="生成AIでコミュニケーションスキルを強化する" src="https://github.com/user-attachments/assets/fa827f43-bd5b-4561-a44e-54b6242c8c6d" />
 **Think clearly. Build simply.**  
 > ― 本質を、仕組みに。<br>
 👉 [https://truth-wave-github-io.vercel.app/](https://truth-wave-github-io.vercel.app/)
