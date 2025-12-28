@@ -1,3 +1,4 @@
+<img width="952" height="732" alt="AI時代に社会的知性を発揮する" src="https://github.com/user-attachments/assets/c969925a-51bc-4f37-9697-12904eec5ee8" />
 **Think clearly. Build simply.**  
 > ― 本質を、仕組みに。<br>
 👉 [https://truth-wave-github-io.vercel.app/](https://truth-wave-github-io.vercel.app/)
