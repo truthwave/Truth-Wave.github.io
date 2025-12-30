@@ -1,3 +1,4 @@
+<img width="950" height="732" alt="生成AIでクリティカルシンキングを鍛える" src="https://github.com/user-attachments/assets/586d431e-74b7-4c89-884a-9b72c3b7fc3a" />
 **Think clearly. Build simply.**  
 > ― 本質を、仕組みに。<br>
 👉 [https://truth-wave-github-io.vercel.app/](https://truth-wave-github-io.vercel.app/)
