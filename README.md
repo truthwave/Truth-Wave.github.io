@@ -1,4 +1,3 @@
-<img width="945" height="729" alt="生成AIで意思決定力を強化する" src="https://github.com/user-attachments/assets/c6c6c651-a4f1-4667-ab09-4eef05545b40" />
 **Think clearly. Build simply.**  
 > ― 本質を、仕組みに。<br>
 👉 [https://truth-wave-github-io.vercel.app/](https://truth-wave-github-io.vercel.app/)
