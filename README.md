@@ -1,7 +1,6 @@
 **Think clearly. Build simply.**  
 > ― 本質を、仕組みに。<br>
 👉 [https://truth-wave-github-io.vercel.app/](https://truth-wave-github-io.vercel.app/)
-<img width="946" height="733" alt="生成AIをクリエイティブ制作にとり入れるには" src="https://github.com/user-attachments/assets/8ffc4194-3459-4246-b174-e7f60bbdc656" />
 
 <p align="center">
 <img width="1536" height="1024" alt="webページ (1)" src="https://github.com/user-attachments/assets/2f4177ff-86b5-4bcc-8673-acf8999fbf89" />
