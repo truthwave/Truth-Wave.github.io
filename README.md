@@ -1,4 +1,3 @@
-<img width="915" height="702" alt="AI時代のヒューマンスキル byMicrosoft x LinkedIn" src="https://github.com/user-attachments/assets/25edf4b7-3495-46e7-b193-34e234097e37" />
 **Think clearly. Build simply.**  
 > ― 本質を、仕組みに。<br>
 👉 [https://truth-wave-github-io.vercel.app/](https://truth-wave-github-io.vercel.app/)
