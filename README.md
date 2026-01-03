@@ -1,4 +1,3 @@
-<img width="953" height="735" alt="１分で学ぶ：ChatGPTの便利技BEST 10" src="https://github.com/user-attachments/assets/dd026304-87a8-4dd6-a82f-2fe03adac415" />
 **Think clearly. Build simply.**  
 > ― 本質を、仕組みに。<br>
 👉 [https://truth-wave-github-io.vercel.app/](https://truth-wave-github-io.vercel.app/)
