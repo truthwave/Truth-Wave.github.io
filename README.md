@@ -1,3 +1,4 @@
+<img width="950" height="736" alt="ビジネスリーダーのための生成AI" src="https://github.com/user-attachments/assets/93a532d4-60b6-461b-b4f4-2efd62fc75e3" />
 **Think clearly. Build simply.**  
 > ― 本質を、仕組みに。<br>
 👉 [https://truth-wave-github-io.vercel.app/](https://truth-wave-github-io.vercel.app/)
