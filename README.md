@@ -1,5 +1,4 @@
 **Think clearly. Build simply.**  
-<img width="942" height="727" alt="AIイノベーションの最先端を行くチームを作る" src="https://github.com/user-attachments/assets/664fb368-db83-466e-ba5b-f187defc927d" />
 > ― 本質を、仕組みに。<br>
 👉 [https://truth-wave-github-io.vercel.app/](https://truth-wave-github-io.vercel.app/)
 
