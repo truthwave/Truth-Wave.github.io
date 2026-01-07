@@ -1,4 +1,3 @@
-<img width="947" height="728" alt="リーダーシップにおけるAI活用の課題とチャンス" src="https://github.com/user-attachments/assets/8ec23df1-2c69-467f-8031-9dc658ff2674" />
 **Think clearly. Build simply.**  
 > ― 本質を、仕組みに。<br>
 👉 [https://truth-wave-github-io.vercel.app/](https://truth-wave-github-io.vercel.app/)
