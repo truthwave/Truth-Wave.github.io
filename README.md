@@ -1,4 +1,3 @@
-<img width="948" height="735" alt="リーダーとして組織のAI能力を高める" src="https://github.com/user-attachments/assets/26f130b0-3748-4c08-8dc6-fb60e3767129" />
 **Think clearly. Build simply.**  
 > ― 本質を、仕組みに。<br>
 👉 [https://truth-wave-github-io.vercel.app/](https://truth-wave-github-io.vercel.app/)
