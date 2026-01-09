@@ -1,3 +1,4 @@
+<img width="951" height="733" alt="AI 入門" src="https://github.com/user-attachments/assets/67e47116-02dd-4cb2-b474-749b2c22e53c" />
 **Think clearly. Build simply.**  
 > ― 本質を、仕組みに。<br>
 👉 [https://truth-wave-github-io.vercel.app/](https://truth-wave-github-io.vercel.app/)
