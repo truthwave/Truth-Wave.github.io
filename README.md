@@ -5,7 +5,6 @@
 <p align="center">
 <img width="1536" height="1024" alt="webページ (1)" src="https://github.com/user-attachments/assets/2f4177ff-86b5-4bcc-8673-acf8999fbf89" />
 </p>
-<img width="946" height="726" alt="Microsoft 365 Copilot 入門 (2024)" src="https://github.com/user-attachments/assets/2318b0f0-885f-449c-8e86-8365b2825f30" />
 
 ---
 
