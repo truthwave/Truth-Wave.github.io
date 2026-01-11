@@ -5,7 +5,7 @@
 <p align="center">
 <img width="1536" height="1024" alt="webページ (1)" src="https://github.com/user-attachments/assets/2f4177ff-86b5-4bcc-8673-acf8999fbf89" />
 </p>
-<img width="943" height="733" alt="組織で責任あるAIを主導する" src="https://github.com/user-attachments/assets/f54bd9ba-8be8-4dfc-80ff-4cd2925f7972" />
+
 
 ---
 
