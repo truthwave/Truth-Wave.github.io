@@ -6,8 +6,6 @@
 <img width="1536" height="1024" alt="webページ (1)" src="https://github.com/user-attachments/assets/2f4177ff-86b5-4bcc-8673-acf8999fbf89" />
 </p>
 
-<img width="953" height="736" alt="Microsoft Copilotで業務を効率化する" src="https://github.com/user-attachments/assets/0d8d51fd-c0cc-4827-ab44-aee1779f3f87" />
-
 ---
 
 # Truth Wave ― 真理の波 🌊
