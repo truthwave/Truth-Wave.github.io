@@ -5,7 +5,7 @@
 <p align="center">
 <img width="1536" height="1024" alt="webページ (1)" src="https://github.com/user-attachments/assets/2f4177ff-86b5-4bcc-8673-acf8999fbf89" />
 </p>
-<img width="943" height="728" alt="生成AI：進化した思考型オンライン検索" src="https://github.com/user-attachments/assets/d017d90d-e68f-4945-8906-3419ff665ad9" />
+
 
 ---
 
