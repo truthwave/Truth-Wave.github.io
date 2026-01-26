@@ -6,8 +6,6 @@
 <img width="1536" height="1024" alt="webページ (1)" src="https://github.com/user-attachments/assets/2f4177ff-86b5-4bcc-8673-acf8999fbf89" />
 </p>
 
-<img width="952" height="734" alt="生成AIとは" src="https://github.com/user-attachments/assets/cce80565-38cb-43ba-8bf0-9e63c6ec1cfc" />
-
 ---
 
 # Truth Wave ― 真理の波 🌊
