@@ -28,7 +28,7 @@ Truth Wave is a personal development brand founded on the belief that “truth s
 - Automatically assesses investment value based on financial metrics and theoretical stock prices
 - Supports beginners to intermediate users, outputs comments in Buffett's style
 - [🔗 GitHub Repository](https://github.com/truthwave/Buffett-Graham-GPTs/tree/main/English)
-- [🔗 note Product Page](https://note.com/truth_wave/n/n92be6e1aca01)
+- [🔗 note Product Page](https://note.com/truth_wave/n/n382e68e3d601)
 
 ---
 
@@ -38,7 +38,7 @@ Truth Wave is a personal development brand founded on the belief that “truth s
 - **High-quality wording**: Formatted for immediate practical use, including opening thanks and closing with next steps  
 - **Exceptional versatility**: Covers customer support, follow-ups, thank-yous, and schedule coordination
 - [🔗 GitHub Repository](https://github.com/truthwave/mail-efficiency-gpts/tree/main/English)
-- [🔗 note Product Page](https://note.com/truth_wave/n/n61c5d3749404)
+- [🔗 note Product Page](https://note.com/truth_wave/n/nfaa7dce047bf)
 
 
 ---
