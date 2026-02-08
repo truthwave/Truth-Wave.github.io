@@ -7,6 +7,8 @@
 </p>
 
 ---
+<img width="952" height="732" alt="PowerPoint：Copilotでスライドを作成" src="https://github.com/user-attachments/assets/ff4524ee-b609-42a8-953b-d93fd7ebb29f" />
+
 
 # Truth Wave ― 真理の波 🌊
 
