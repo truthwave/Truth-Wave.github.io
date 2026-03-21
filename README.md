@@ -5,6 +5,7 @@
 <p align="center">
 <img width="1536" height="1024" alt="webページ (1)" src="https://github.com/user-attachments/assets/2f4177ff-86b5-4bcc-8673-acf8999fbf89" />
 </p>
+<img width="948" height="734" alt="Excel：Copilotでデータ分析をする" src="https://github.com/user-attachments/assets/58d8ecc3-033b-4077-8fb6-fbd6fb12dff1" />
 
 ---
 
