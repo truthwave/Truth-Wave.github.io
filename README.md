@@ -4,7 +4,6 @@
 
 <p align="center">
 <img width="1536" height="1024" alt="webページ (1)" src="https://github.com/user-attachments/assets/2f4177ff-86b5-4bcc-8673-acf8999fbf89" />
-<img width="950" height="720" alt="コンテンツ制作のための生成AIスキル" src="https://github.com/user-attachments/assets/2235baac-c494-4f27-9e27-482c0aefad7e" />
 
 ---
 
