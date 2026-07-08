@@ -1,3 +1,4 @@
+<img width="954" height="727" alt="プロンプトエンジニアリング基本講座" src="https://github.com/user-attachments/assets/81f7bc97-dce1-43b5-98ed-5b172050d150" />
 **Think clearly. Build simply.**  
 > ― 本質を、仕組みに。<br>
 👉 [https://truth-wave-github-io.vercel.app/](https://truth-wave-github-io.vercel.app/)
